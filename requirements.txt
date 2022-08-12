@@ -3,3 +3,6 @@ voila-material
 ee
 geemap
 sankee
+plotly
+leaflet
+ipyevents
